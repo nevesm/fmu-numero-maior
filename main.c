@@ -1,23 +1,3 @@
-# fmu-numero-maior
- 📚 APS – Lógica de Programação 1º semestre
- \
- 👨🏻‍🏫 Profº Silvio 
- \
- 👩🏻‍🏫 Profª Talita
- \
- \
- **DEV/ALUNO:**
-- 👨🏻‍🎓 Marcus Satirio da Mata Neves - 6932681
- \
- \
- Questão 2
- 
- - Faça um programa que receba dois números e mostre o maior.
-\
-\
-\
-**CÓDIGO**
-~~~C
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -56,4 +36,3 @@ int main()
           printf("\nOS NÚMEROS SÃO IGUAIS!\n");
       }
 }
-~~~
